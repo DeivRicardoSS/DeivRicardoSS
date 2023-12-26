@@ -322,8 +322,8 @@ h2 p{
 .redes{
     display: flex;
     position: absolute;
-    bottom: 10px;
-    right: 10px;
+    bottom: 50px;
+    right: 40px;
 }
 .redes a{
     font-size: 40px;
