@@ -6,7 +6,7 @@ Sou estudante de Desenvolvimento de Sistemas na Grau Técnico. Sou fascinado no 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-16141f?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/deivyson-ricardo-33354425b/)
 [![github](https://img.shields.io/badge/github-16141f?style=for-the-badge&logo=github&logoColor=0E76A8)](https://github.com/DeivRicardoSS)
-[![github](https://img.shields.io/badge/instagram-16141f?style=for-the-badge&logo=instagram&logoColor=0E76A8)](https://www.instagram.com/deivyson_2005/)
+[![github](https://img.shields.io/badge/instagram-16141f?style=for-the-badge&logo=instagram&logoColor=0E76A8)](https://www.instagram.com/deivs_05/)
 
 
 ## Habilidades
