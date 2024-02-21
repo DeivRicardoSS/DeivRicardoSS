@@ -16,7 +16,7 @@ Sou estudante de Desenvolvimento de Sistemas na Grau Técnico. Sou fascinado no 
 ![JavaScript](https://img.shields.io/badge/JavaScript-16141f?style=for-the-badge&logo=javascript)
 ![Csharp](https://img.shields.io/badge/CSharp-16141f?style=for-the-badge&logo=csharp)
 ![Csharp](https://img.shields.io/badge/mysql-16141f?style=for-the-badge&logo=mysql)
-![NodeJs](https://img.shields.io/badge/nodejs-16141f?style=for-the-badge&logo=nodejs)
+![NodeJs](https://img.shields.io/badge/nodejs-16141f?style=for-the-badge&logo=node.js)
 
 
 
