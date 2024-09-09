@@ -1,0 +1,210 @@
+@import url('https://fonts.googleapis.com/css2?family=SUSE:wght@100..800&display=swap');
+
+.light {
+    --primary: #5ab669;
+    --secondary: #e5e7ce;
+    --accent: #7898c3;
+    --text: black;
+    --background: #e7e7e7;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    font-family: "SUSE", sans-serif;
+    color: var(--text)
+}
+
+body {
+    background-color: var(--background);
+}
+
+header {
+    border-bottom: 0.5px solid #b1b1b1;
+    padding: 10px;
+}
+
+header h1 {
+    font-size: 25px;
+}
+
+.gradient {
+    /* Passo 1: Definir um degradê como fundo */
+    background-image: linear-gradient(to right, var(--primary), var(--accent), var(--accent));
+    
+    /* Passo 2: Apagar do fundo tudo que não estiver imediatamente atrás do texto */
+    background-clip: text;
+    -webkit-background-clip: text; /* Alguns navegadores precisam do prefixo */
+    
+    /* Passo 3: Apagar o texto, deixando apenas o fundo atrás dele */
+    -webkit-text-fill-color: transparent; /* Cor que contrasta com o degradê */
+    color: var(--text); /* Cor do texto (caso o navegador não suporte background-clip: text) */
+}
+
+.home {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 94vh;
+}
+.home div {
+    width: 50%;
+}
+
+.home div h2 {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.home div p {
+    font-size: 20px;
+    text-align: justify;
+}
+
+.home div div {
+    margin-top: 40px;
+}
+
+.home div div a {
+    text-decoration: none;
+    border: 2px solid var(--primary);
+    padding: 20px;
+    font-weight: 600;
+}
+
+.destaque {
+    background-color: var(--primary);
+    color: var(--secondary);
+    margin-left: 20px;
+}
+
+.sobre {
+    min-height: 80vh;
+    
+    display: flex;
+    justify-content: space-between;
+    
+    padding: 50px;
+}
+
+.sobre h2, #projetos h2, #contato h2 {
+    font-size: 45px;
+}
+
+.sobre div {
+    width: 50%;
+}
+
+.sobre div p{
+    font-size: 16px;
+}
+
+.sobre div a {
+    color: #4f4fcd;
+    font-weight: 600;
+}
+
+.sobre div p:not(:last-child) {
+    margin-bottom: 20px;
+}
+
+#projetos {
+    display: flex;
+
+    min-height: 50vh;
+
+    justify-content: space-between;
+
+    padding: 50px;
+}
+
+#projetos div {
+    width: 70%;
+
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#projetos div article {
+    width: 33.3%;
+    padding: 10px;
+    height: 200px;
+
+    cursor: pointer;
+    font-size: 16px;
+    text-align: justify;
+}
+
+#projetos div article h3 {
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+#contato {
+    display: flex;
+    justify-content: space-between;
+
+    padding: 50px;
+}
+
+
+
+#contato form {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+
+    margin-top: 20px;
+}
+
+#contato form label {
+    font-weight: 600;
+    font-size: 20px;
+}
+
+#contato form input, #contato form textarea {
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+#contato form textarea {
+    resize: none;
+}
+
+#contato form button{
+    padding: 10px;
+    width: 20%;
+    font-weight: 600;
+    
+    border: none;
+    background-color: var(--primary);
+
+    cursor: pointer;
+}
+
+footer{
+    min-height: 20vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+}
+
+footer div {
+    margin-top: 10px;
+}
+
+footer div a {
+    text-decoration: none;
+    font-size: 20px;
+
+    margin: 10px;
+}
