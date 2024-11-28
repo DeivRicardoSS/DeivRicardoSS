@@ -19,6 +19,7 @@ Sou estudante de Desenvolvimento de Sistemas na Grau Técnico. Sou fascinado no 
 ![mysql](https://img.shields.io/badge/mysql-16141f?style=for-the-badge&logo=mysql)
 ![NodeJs](https://img.shields.io/badge/nodejs-16141f?style=for-the-badge&logo=node.js)
 ![python](https://img.shields.io/badge/python-16141f?style=for-the-badge&logo=python)
+![figma](https://img.shields.io/badge/figma-16141f?style=for-the-badge&logo=figma)
 
 
 
