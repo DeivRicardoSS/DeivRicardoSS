@@ -2,6 +2,13 @@
 
 Bem vindo ao meu repositório! Aqui você encontrará minha jornada de aprendizado e alguns projetos de curso / faculdade.
 
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=DeivRicardoSS&show_icons=true&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeivRicardoSS&layout=compact&theme=dracula"/>
+</div>
+
+
+
 ## Redes Sociais
 
 
@@ -12,16 +19,18 @@ Bem vindo ao meu repositório! Aqui você encontrará minha jornada de aprendiza
 
 ## Habilidades
 
-![HTML5](https://img.shields.io/badge/HTML5-16141f?style=for-the-badge&logo=html5) 
-![CSS3](https://img.shields.io/badge/CSS3-16141f?style=for-the-badge&logo=css3&logoColor=264CE4) 
-![JavaScript](https://img.shields.io/badge/JavaScript-16141f?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-16141f?style=for-the-badge&logo=typescript)
-![csharp](https://img.shields.io/badge/csharp-16141f?style=for-the-badge&logo=csharp)
-![mysql](https://img.shields.io/badge/mysql-16141f?style=for-the-badge&logo=mysql)
-![mongodb](https://img.shields.io/badge/mongodb-16141f?style=for-the-badge&logo=mongodb)
-![NodeJs](https://img.shields.io/badge/nodejs-16141f?style=for-the-badge&logo=node.js)
-![python](https://img.shields.io/badge/python-16141f?style=for-the-badge&logo=python)
-![figma](https://img.shields.io/badge/figma-16141f?style=for-the-badge&logo=figma)
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40"/>
+</div>
 
 
 
