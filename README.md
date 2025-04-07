@@ -31,8 +31,3 @@ Bem vindo ao meu repositório! Aqui você encontrará minha jornada de aprendiza
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40"/>
 </div>
-
-
-
-## Linguagens usadas
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DeivRicardoSS&layout=compact&bg_color=16141f&border_color=16141f&title_color=FFF&text_color=FFF)
